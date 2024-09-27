@@ -1,0 +1,110 @@
+{
+  "Flags": {
+    "3a0121d0-2bfd-99fd-84fd-3ddb10db6fa7": [ ],
+    "43c679d3-5c6b-c3b4-2a7a-a764ba03e030": [ ],
+    "07802ec4-b7f6-690b-7e6d-363c1c6d666d": [ ],
+    "bfedb044-7dc3-25e1-8807-e53561c266c3": [ ],
+    "dc1668ea-fcf3-3dc6-40d2-bce31ef69bce": [ ],
+    "d0ced98a-32a3-c4d7-749a-6cd59fe34ae9": [ ],
+    "b264c3d7-81fd-172d-e025-521407d78982": [
+      "END_GatherYourAllies_State_OnlyPartyAllies"
+    ],
+    "e7d9ef54-7dc6-1872-1040-b953116ef7e6": [ ],
+    "9497ffc3-77f5-4925-e173-ac6401f29c0a": [ ],
+    "890d0c24-f950-67d2-4ea5-a123e8e4544f": [ ],
+    "74302a5a-aa23-7b36-570e-21ad31443397": [ ],
+    "6e86140b-5d4c-39c3-476b-5769eab61297": [
+      "REALLY_KARLACH"
+    ],
+    "c6316743-c80f-88a4-ffd0-1d6c01cc5dbc": [ ],
+    "65529681-fccb-f280-8673-5765f75104c9": [ ],
+    "993e8871-fd46-9b3b-8aeb-944ce9054873": [ ],
+    "5df8e513-da59-01aa-cc54-8e879228f306": [ ],
+    "54ea1034-3e61-90d7-baa4-83482cc42f2f": [ ],
+    "90cb92b2-b59a-ba58-9741-5fa4b63f3f84": [ ],
+    "d4b74a80-69fe-c56b-f4a9-fbe3d7bb3331": [
+      "END_GatherYourAllies_State_NoAlliesPresent"
+    ],
+    "d1ee317d-07b7-c8d9-eb16-0dfee2f65f6f": [
+      "END_General_State_CompKarlachIsMindFlayer"
+    ],
+    "3aabfaaa-394e-15f1-3253-1a7d43aca43d": [ ],
+    "30c94a64-452d-a483-e990-1ab84965de23": [ ],
+    "268c9042-06fc-24b7-06f5-90d1cbecda9c": [ ],
+    "66da25a2-e5ed-cd74-693b-d3091c91c4c3": [ ],
+    "26878f45-6aa3-7ae9-ac43-bc62dd8e30a1": [ ],
+    "e8cf5b2f-2233-edd0-e1e6-81bdcac1b159": [ ],
+    "97879c1e-dd85-86a4-5fe4-99d7d5f50f6a": [ ],
+    "24a9e601-95d1-cc56-5ccd-cf59c2bbc7d9": [ ],
+    "1967b2da-dcdf-cd7c-3810-b761bc9ad08e": [ ],
+    "2aaada0e-2359-6788-dec1-eb86a8826336": [ ],
+    "84b60926-7e6a-0890-3541-052593ac338f": [ ],
+    "18c81e8d-ed74-405e-d208-489b07722bad": [ ],
+    "ad64b5b9-b62b-600c-c4d6-d067c3e3fbd1": [ ],
+    "e2425dbe-9c47-d138-1432-53183c6a1d70": [ ],
+    "14587f41-2c8f-1a2a-82a8-76727732f286": [
+      "REALLY_KARLACH"
+    ],
+    "7b7698eb-fdf0-3107-765b-4477f6f4d22e": [ ],
+    "08451a40-cd57-c8ab-03aa-6c6da6c58671": [
+      "FULL_CEREMORPH",
+      "PARTIAL_CEREMORPH"
+    ],
+    "daf10bb7-a43b-95c9-70d1-7c7af0d6655e": [
+      "FULL_CEREMORPH",
+      "PARTIAL_CEREMORPH"
+    ],
+    "078a8169-a08e-076f-a409-d03913546e58": [ ],
+    "7d968845-cdc9-9cd0-6a01-94f1e57554ec": [ ],
+    "f02fc73e-0ca1-bc85-6a60-b71dd60f78e3": [ ],
+    "62398cf7-9260-a946-7aa0-aca05d685e5b": [ ],
+    "3198e96d-a87d-ac94-2497-a5718c6accab": [ ],
+    "f0d8b725-ab16-e84f-a6d6-8062549aba7b": [ ]
+  },
+  "Lines": {
+    "3a0121d0-2bfd-99fd-84fd-3ddb10db6fa7": "<i>I am not just ready. I am eager.<\/i>",
+    "43c679d3-5c6b-c3b4-2a7a-a764ba03e030": "<i>Thanks to you, the tyrant that has haunted me for most of my life is finally my prey.<\/i>",
+    "07802ec4-b7f6-690b-7e6d-363c1c6d666d": "<i>I will see the Netherbrain <b>break<\/b>.<\/i>",
+    "bfedb044-7dc3-25e1-8807-e53561c266c3": "<i>Of course, darling. Come here.<\/i>",
+    "dc1668ea-fcf3-3dc6-40d2-bce31ef69bce": "Cinematic",
+    "d0ced98a-32a3-c4d7-749a-6cd59fe34ae9": "<i>We will be free. <b>Together.<\/b><\/i>",
+    "b264c3d7-81fd-172d-e025-521407d78982": "<i>We have few allies, but those that have come to our side are formidable. We can win this.<\/i>",
+    "e7d9ef54-7dc6-1872-1040-b953116ef7e6": "<i>I am relieved it has stabilized her heart. It would have been devastating to see it claim her.<\/i>",
+    "9497ffc3-77f5-4925-e173-ac6401f29c0a": "<i>As for the body itself, she is adapting quickly. Her future is bright.<\/i>",
+    "890d0c24-f950-67d2-4ea5-a123e8e4544f": "<i>Keep an open mind. Becoming illithid is a social, physical, and mental challenge. Do not abandon her simply because she looks different.<\/i>",
+    "74302a5a-aa23-7b36-570e-21ad31443397": "<i>You may struggle with control at first. However, with time, you will learn how to command your new vessel.<\/i>",
+    "6e86140b-5d4c-39c3-476b-5769eab61297": "<i>I am relieved it has stabilized your heart. It would have been devastating to see it claim you.<\/i>",
+    "c6316743-c80f-88a4-ffd0-1d6c01cc5dbc": "<i>Though... how are you feeling? Is there any lingering pain from your ceremorphosis?<\/i>",
+    "65529681-fccb-f280-8673-5765f75104c9": "<i>You have every right to feel uncomfortable. I did, at first.<\/i>",
+    "993e8871-fd46-9b3b-8aeb-944ce9054873": " <i>Know, however, that both your future and your form are yours to command. Embrace them, and you will thrive.<\/i>",
+    "5df8e513-da59-01aa-cc54-8e879228f306": "<i>That is good to hear. I look forward to seeing you fight the Netherbrain in all of your newfound glory.<\/i>",
+    "54ea1034-3e61-90d7-baa4-83482cc42f2f": "<i>Yes... it's not something you forget.<\/i>",
+    "90cb92b2-b59a-ba58-9741-5fa4b63f3f84": "<i>I wish the evolution did not require such a harrowing step. But it is over now... for both of us.<\/i>",
+    "d4b74a80-69fe-c56b-f4a9-fbe3d7bb3331": "<i>I will be blunt. You should have spent more time seeking allies. The Netherbrain is not a foe to face alone.<\/i>",
+    "d1ee317d-07b7-c8d9-eb16-0dfee2f65f6f": "<i>Our numbers include two illithids and powerful allies. There are few better positions in which we could find ourselves.<\/i>",
+    "3aabfaaa-394e-15f1-3253-1a7d43aca43d": "<i>However, we must not underestimate our enemy. One error could bring about our enslavement or death.<\/i>",
+    "30c94a64-452d-a483-e990-1ab84965de23": "<i>Better it fuels you than it hinders you, I suppose.<\/i>",
+    "268c9042-06fc-24b7-06f5-90d1cbecda9c": "<i>I am happy that your first brain as an illithid was so uniquely delectable.<\/i>",
+    "66da25a2-e5ed-cd74-693b-d3091c91c4c3": "<i>He will serve as an excellent catalyst for your psionics as well. You will be marvelous in the battles to come.<\/i>",
+    "26878f45-6aa3-7ae9-ac43-bc62dd8e30a1": "<i>Good. Your understanding is commendable.<\/i>",
+    "e8cf5b2f-2233-edd0-e1e6-81bdcac1b159": "<i>No... it's alright. I need to hold you now... in case I am not able to later.<\/i>",
+    "97879c1e-dd85-86a4-5fe4-99d7d5f50f6a": "Cinematic",
+    "24a9e601-95d1-cc56-5ccd-cf59c2bbc7d9": "<i>You are truly special, darling.<\/i>",
+    "1967b2da-dcdf-cd7c-3810-b761bc9ad08e": "<i>I am relieved it has stabilized her heart. It would have been devastating to see it claim her.<\/i>",
+    "2aaada0e-2359-6788-dec1-eb86a8826336": "<i>As for the body itself, she is adapting quickly. Her future is bright.<\/i>",
+    "84b60926-7e6a-0890-3541-052593ac338f": "<i>Though... the aftermath of the transformation is rarely straightforward. I hope that, as her partner, you will provide her with any support she requires.<\/i>",
+    "18c81e8d-ed74-405e-d208-489b07722bad": "*As soon as the words leave you, a whisper of fear escapes The Emperor's mind.*",
+    "ad64b5b9-b62b-600c-c4d6-d067c3e3fbd1": "*It is... <i>shy<\/i>. If you were in private, it would leap at the chance to shower you with affection.*",
+    "e2425dbe-9c47-d138-1432-53183c6a1d70": "*Here, though... there are too many eyes.*",
+    "14587f41-2c8f-1a2a-82a8-76727732f286": "<i>I am relieved we no longer need fear your heart's destruction. As for the rest of you... you are more enticing than ever.<\/i>",
+    "7b7698eb-fdf0-3107-765b-4477f6f4d22e": "<i>Though... I know the agony of ceremorphosis. Are you feeling alright?<\/i>",
+    "08451a40-cd57-c8ab-03aa-6c6da6c58671": "<i>We are two illithids with powerful allies. There are few better positions in which we could find ourselves.<\/i>",
+    "daf10bb7-a43b-95c9-70d1-7c7af0d6655e": "<i>However, we must not underestimate our enemy. One error could bring about our enslavement or death.<\/i>",
+    "078a8169-a08e-076f-a409-d03913546e58": "<i>No, it isn't. But I do not want to see Karlach undone by the mental and social isolation of being a renegade mind flayer.<\/i>",
+    "7d968845-cdc9-9cd0-6a01-94f1e57554ec": "<i>Do not make this harder for her than it has to be.<\/i>",
+    "f02fc73e-0ca1-bc85-6a60-b71dd60f78e3": "<i>I am happy for you. Your future is bright.<\/i>",
+    "62398cf7-9260-a946-7aa0-aca05d685e5b": "<i>How can you be so shortsighted and self-centered? What you just said is more disgusting than any \"ugliness\" you perceive!<\/i>",
+    "3198e96d-a87d-ac94-2497-a5718c6accab": "<i>She is a person. And as a person, she is worthy of respect regardless of what she looks like or what she must eat.<\/i>",
+    "f0d8b725-ab16-e84f-a6d6-8062549aba7b": "<i>Open your mind. Not only for her sake, but for yours.<\/i>"
+  }
+}

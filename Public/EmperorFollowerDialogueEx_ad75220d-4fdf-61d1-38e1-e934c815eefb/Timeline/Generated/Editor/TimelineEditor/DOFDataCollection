@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DOFDataCollection>
+  <Scene DOFAperture="22" DOFFocalDistance="1" DOFNearSharpOffset="0.5" DOFFarSharpOffset="0.5" />
+  <Shoulder DOFAperture="22" DOFFocalDistance="1" DOFNearSharpOffset="0.5" DOFFarSharpOffset="0.5" />
+  <MediumClose DOFAperture="22" DOFFocalDistance="1" DOFNearSharpOffset="0.5" DOFFarSharpOffset="0.5" />
+  <Close DOFAperture="22" DOFFocalDistance="1" DOFNearSharpOffset="0.5" DOFFarSharpOffset="0.5" />
+  <Mid DOFAperture="22" DOFFocalDistance="1" DOFNearSharpOffset="0.5" DOFFarSharpOffset="0.5" />
+  <MAX DOFAperture="22" DOFFocalDistance="1" DOFNearSharpOffset="0.5" DOFFarSharpOffset="0.5" />
+</DOFDataCollection>
