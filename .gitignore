@@ -4,9 +4,9 @@ SourceControlGenerator.json
 
 # Levels
 ######################
-Mods/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/Levels/*
-Mods/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/Globals/*
-Editor/Mods/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/Levels/*
+# Mods/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/Levels/*
+# Mods/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/Globals/*
+# Editor/Mods/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/Levels/*
 
 # Story files        #
 ######################
@@ -18,8 +18,8 @@ Mods/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/Story/Dialog
 
 # Asset Folders      #
 ######################
-Public/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/Assets/*
-#Public/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/GUI/*
+# Public/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/Assets/*
+# Public/EmperorFollowerDialogueEx_ad75220d-4fdf-61d1-38e1-e934c815eefb/GUI/*
 
 # Editor files       #
 ######################
@@ -37,20 +37,20 @@ story.debugInfo
 
 # Assets             #
 ######################
-*.gr2
-*.dae
-*.swf
-*.bullet
-*.dds
-*.tga
-*.png
-*.ttf
-*.lsb
-*.lsf
-*.lsfx
-*.lsefx
-#*.lsx
-*.lsmg
+# *.gr2
+# *.dae
+# *.swf
+# *.bullet
+# *.dds
+# *.tga
+# *.png
+# *.ttf
+# *.lsb
+# *.lsf
+# *.lsfx
+# *.lsefx
+# #*.lsx
+# *.lsmg
 
 # Logs               #
 ######################
@@ -63,18 +63,18 @@ personallog.txt
 
 # Binary Files       #
 ######################
-*.dat
-*.data
-*.bik
-*.bnk
-*.bshd
-*.cur
-*.fnt
-*.iggy
-*.iggytex
-*.osi
-*.patch
-*.tmpl
+# *.dat
+# *.data
+# *.bik
+# *.bnk
+# *.bshd
+# *.cur
+# *.fnt
+# *.iggy
+# *.iggytex
+# *.osi
+# *.patch
+# *.tmpl
 
 # Dump files         #
 ######################
