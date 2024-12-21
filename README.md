@@ -4,6 +4,9 @@ Emperor Finale Follower Dialogue Extended
 Allows the player to have a conversation with The Emperor when he is in the party during the finale and give him a hug
 if his romance arc was completed.
 
+## Release:
+* [Nexus](https://www.nexusmods.com/baldursgate3/mods/12555)
+
 # About:
 This mod allows the player to converse with The Emperor when he is a follower. 
 He can comment on his readiness to take on the Netherbrain and your preparation for the fight, 
